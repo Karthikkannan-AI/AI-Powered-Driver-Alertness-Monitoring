@@ -8,7 +8,6 @@ AI Driver Monitoring
 
 Road Accident Death ( India recorded highest number of road accident deaths across the globe)
 
-- - - -
     
     
 ## __Accidents in India ( Facts and Figures)__ ##
@@ -65,6 +64,6 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 
 - - - -
 
-|  |  |
+
 | --- | --- |
 | ![](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/2.png)  |  ![](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/3.png) |
