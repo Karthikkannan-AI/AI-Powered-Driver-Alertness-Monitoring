@@ -1,5 +1,10 @@
 # AI-Driver-Monitoring #
 
+With time where Ai is being an emerging technology for various solutions and problem solving cases, We have leveraged the power of AI to make solutions that are helpful in our day to day life by ensuring safety and respecting the privacy of the user of the consumer.
+
+The following project is about ensuring the safety of the driver while driving the vehicle and alerting the driver in realtime using Artificial Intelligence
+
+
 <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
 
 - - - -
