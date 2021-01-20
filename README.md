@@ -71,8 +71,8 @@ Test - 1 : Driver Activity Monitoring in Bus               &nbsp;&nbsp;&nbsp;&nb
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/aQyc5zW1ez4
 " target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t.png" 
-alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /></a>        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/13FINC-P08A" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t0.png" 
-alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /></a> 
+alt="AI Driver Monitoring in Bus (Day)" width="480" height="360" border="10" /></a>        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/13FINC-P08A" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t0.png" 
+alt="AI Driver Monitoring in Bus (Day)" width="480" height="360" border="10" /></a> 
 
 
 
