@@ -1,5 +1,4 @@
 # AI-Driver-Monitoring #
-AI Driver Monitoring
 
 <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2012-12-23.png"/>
 
