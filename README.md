@@ -66,18 +66,22 @@ We have Tested in Bus, Truck, Car and Auto. As a Proof of Concept we have record
 We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and Auto rickshaw manufacturers)  in India and explore the possibilities of Real-world Implementation 
 
 <p float="left">
+ <p float="left">
 AI Driver Monitoring in Bus -1 (Day)
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/aQyc5zW1ez4
 " target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t.png" 
-alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" width=30%/></a>
-
-
+alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /></a>
+</p>
+<p float="right">
 AI Driver Monitoring in Bus -2 (Day)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/13FINC-P08A" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t0.png" 
-alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" width=49%/></a>
+alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /></a>
 </p>
+</p>
+
+
 <p float="left">
 AI Driver Monitoring in Bus (Night)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/xCQxIWP7upk" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t1.png" 
