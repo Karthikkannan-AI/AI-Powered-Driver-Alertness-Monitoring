@@ -12,7 +12,7 @@ The following project is about ensuring the safety of the driver while driving t
 
 * [The Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#the-problem)
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#analysis-of-the-problem)
-  * [Accidents in India(Facts)](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#accidents-in-india--facts-and-figures)
+  * [Accidents in India (Facts)](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#accidents-in-india--facts-and-figures)
 * [Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#solution)
   * [Evaluating the Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#evaluating-the-solution)
 * [Genuine Challenges in Implementation of Driver Activity Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-activity-monitoring)
