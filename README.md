@@ -32,9 +32,8 @@ generation of driver assistance functions.
 * [Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#solution)
   * [Evaluating the Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#evaluating-the-solution)
 * [Genuine Challenges in Implementation of Driver Activity Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-activity-monitoring)
-* [Conclusion]
-* [Further Works]
-* [About Us](https://etopdigital.com/index.php)
+* [Conclusion](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#contact-us)
 
 
 - - - -
