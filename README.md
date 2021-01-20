@@ -18,7 +18,7 @@ The following project is about ensuring the safety of the driver while driving t
 * [Genuine Challenges in Implementation of Driver Activity Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-activity-monitoring)
 * [Conclusion]
 * [Further Works]
-* [About Us]
+* [About Us](https://etopdigital.com/index.php)
 
 
 - - - -
