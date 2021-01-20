@@ -6,7 +6,7 @@
 
 ## Table of Contents ##
 
-* ![The Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#the-problem)
+* [The Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#the-problem)
   * Analysis of the Problem
   * Accidents in India
 * Solution
