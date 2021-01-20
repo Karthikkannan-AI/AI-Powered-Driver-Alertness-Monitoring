@@ -71,7 +71,7 @@ AI Driver Monitoring in Bus -1 (Day)               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/aQyc5zW1ez4
 " target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t.png" 
-alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /></a> |       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/13FINC-P08A" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t0.png" 
+alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /></a>        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/13FINC-P08A" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t0.png" 
 alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /></a> 
 
 
@@ -82,7 +82,7 @@ AI Driver Monitoring in Bus (Night) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI Driv
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/xCQxIWP7upk" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t1.png" 
-alt="AI Driver Monitoring in Bus (Night)" width="240" height="180" border="10" /></a> |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/1oi7GNBNJH8"
+alt="AI Driver Monitoring in Bus (Night)" width="240" height="180" border="10" /></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/1oi7GNBNJH8"
 target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t2.png" 
 alt="AI Driver Monitoring in Car" width="240" height="180" border="10" /></a> 
             
