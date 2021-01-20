@@ -7,10 +7,10 @@
 ## Table of Contents ##
 
 * The Problem
- * Analysis of the Problem
- * Accidents in India
+  * Analysis of the Problem
+  * Accidents in India
 * Solution
- * Evaluating the Solution
+  * Evaluating the Solution
 * Genuine Challenges in Implementation of Driver Activity Monitoring
 
 
