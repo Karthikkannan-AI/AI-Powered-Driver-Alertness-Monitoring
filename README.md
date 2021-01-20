@@ -16,6 +16,9 @@ The following project is about ensuring the safety of the driver while driving t
 * [Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#solution)
   * [Evaluating the Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#evaluating-the-solution)
 * [Genuine Challenges in Implementation of Driver Activity Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-activity-monitoring)
+* [Conclusion]
+* [Further Works]
+* [About Us]
 
 
 - - - -
