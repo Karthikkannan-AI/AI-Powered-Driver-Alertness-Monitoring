@@ -9,9 +9,7 @@ Road Accident Death ( India recorded highest number of road accident deaths acro
 
     
     
-## __Accidents in India ( Facts and Figures)__ ##
-
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/1.png" width="70%">
+### __Accidents in India ( Facts and Figures)__ ###
 
 __Key Highlights__
 * A total of 449,002 accidents occurred in India in 2019
@@ -31,6 +29,11 @@ __Key Highlights__
 6. Potholes and Bad Road Condition
 7. Breaking Traffic Rules
 8. Tailgating
+
+<p float="left">
+  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/2.png" width="49%" />
+  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/3.png" width="50%" /> 
+</p>
 
 - - - -
 
@@ -63,7 +66,3 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 
 - - - -
 
-<p float="left">
-  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/2.png" width="49%" />
-  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/3.png" width="50%" /> 
-</p>
