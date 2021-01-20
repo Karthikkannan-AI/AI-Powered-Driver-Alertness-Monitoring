@@ -7,11 +7,11 @@
 ## Table of Contents ##
 
 * [The Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#the-problem)
-  * Analysis of the Problem
-  * Accidents in India
-* Solution
-  * Evaluating the Solution
-* Genuine Challenges in Implementation of Driver Activity Monitoring
+  * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#analysis-of-the-problem)
+  * [Accidents in India](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#accidents-in-india--facts-and-figures)
+* [Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#solution)
+  * [Evaluating the Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#evaluating-the-solution)
+* [Genuine Challenges in Implementation of Driver Activity Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-activity-monitoring)
 
 
 ## The Problem  ##
