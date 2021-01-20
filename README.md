@@ -43,6 +43,7 @@ __Key Highlights__
 Use Advanced facial analysis algorithms and deep learning models ( Facial Landmark Models) To Detect Distracted Driving Behaviour.
 Perform real time analysis of driver’s eyes, mouth, head and body movements and identify the possibility of Drowsiness ( Eye closing and Yawning)
 
+<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2013-02-31.png" width="70%">
 
 
 ### Evaluating the Solution ###
@@ -60,8 +61,3 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 * Whether these data can be used by Insurance Companies ?
 
 - - - -
-
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2013-02-31.png" width="70%">
-
-- - - -
-
