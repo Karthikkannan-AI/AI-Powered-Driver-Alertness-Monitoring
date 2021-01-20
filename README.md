@@ -87,8 +87,8 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/aQyc5zW1ez4" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t.png  =100x20" 
-alt="AI Driver Monitoring in Bus (Day)" width="75%" height="40%" /></a>     
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/aQyc5zW1ez4" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t.png" 
+alt="AI Driver Monitoring in Bus (Day)" height="40%" width="75%"  /></a>     
 
 
 __Test - 2 : Driver Activity Monitoring in Bus__
