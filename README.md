@@ -55,5 +55,3 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 * Privacy of the Driver has to be protected 
 * Who Owns this Data and how it is being used ?
 * Whether these data can be used by Insurance Companies ?
-
-- - - -
