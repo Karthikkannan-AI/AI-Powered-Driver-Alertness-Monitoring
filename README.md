@@ -43,7 +43,6 @@ __Key Highlights__
 Use Advanced facial analysis algorithms and deep learning models ( Facial Landmark Models) To Detect Distracted Driving Behaviour.
 Perform real time analysis of driver’s eyes, mouth, head and body movements and identify the possibility of Drowsiness ( Eye closing and Yawning)
 
-- - - -
 
 
 ### Evaluating the Solution ###
