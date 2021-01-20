@@ -2,13 +2,24 @@
 
 <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
 
+- - - -
+
+## Table of Contents ##
+
+* The Problem
+ * Analysis of the Problem
+ * Accidents in India
+* Solution
+ * Evaluating the Solution
+* Genuine Challenges in Implementation of Driver Activity Monitoring
+
 
 ## The Problem  ##
 
 Road Accident Death ( India recorded highest number of road accident deaths across the globe)
 
 
-### Analysis of the Problem (Common Causes of Road Accidents in India) ###
+### Analysis of the Problem ###
 
 1. Distracted & Drowsiness while Driving ( We will focus on this Problem) 
 2. Drunk Driving
