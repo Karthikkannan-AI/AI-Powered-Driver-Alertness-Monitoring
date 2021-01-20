@@ -73,7 +73,7 @@ AI Driver Monitoring in Bus -1 (Day)
 " target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t.png" 
 alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /></a>
 </p>
-<p float="right">
+<p float="left">
 AI Driver Monitoring in Bus -2 (Day)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/13FINC-P08A" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t0.png" 
