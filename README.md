@@ -19,28 +19,28 @@
 Road Accident Death ( India recorded highest number of road accident deaths across the globe)
 
 
-### Analysis of the Problem ###
+ ### Analysis of the Problem ###
 
-1. Distracted & Drowsiness while Driving ( We will focus on this Problem) 
-2. Drunk Driving
-3. Speeding/ Reckless Driving
-4. Not Wearing Seat Belt
-5. Rain or Wet Roads
-6. Potholes and Bad Road Condition
-7. Breaking Traffic Rules
-8. Tailgating
+ 1. Distracted & Drowsiness while Driving ( We will focus on this Problem) 
+ 2. Drunk Driving
+ 3. Speeding/ Reckless Driving
+ 4. Not Wearing Seat Belt
+ 5. Rain or Wet Roads
+ 6. Potholes and Bad Road Condition
+ 7. Breaking Traffic Rules
+ 8. Tailgating
 
-### Accidents in India ( Facts and Figures) ###
+ ### Accidents in India ( Facts and Figures) ###
 
-__Key Highlights__
-* A total of 449,002 accidents occurred in India in 2019
-* 151,113 people were killed and 451,361 were injured due to road accidents last year 
-* National Highways accounted for an inordinate share of deaths yet again
+ __Key Highlights__
+ * A total of 449,002 accidents occurred in India in 2019
+ * 151,113 people were killed and 451,361 were injured due to road accidents last year 
+ * National Highways accounted for an inordinate share of deaths yet again
 
-<p float="left">
+ <p float="left">
   <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/2.png" width="49%" />
   <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/3.png" width="50%" /> 
-</p>
+ </p>
 
 
 - - - -
