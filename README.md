@@ -1,8 +1,24 @@
 # Evaluation of AI Powered Driver Activity Monitoring to prevent Accidents in Indian Roads #
 
-With time where Ai is being an emerging technology for various solutions and problem solving cases, We have leveraged the power of AI to make solutions that are helpful in our day to day life by ensuring safety and respecting the privacy of the user of the consumer.
+Every Single day there are
+hundreds of Road Accidents happening in India. The Goal of the Project is use
+AI to Prevent Accidents and Save Precious Lives.  
 
-The following project is about ensuring the safety of the driver while driving the vehicle and alerting the driver in realtime using Artificial Intelligence
+
+
+We have built and Evaluated Driver
+activity Monitoring system proof of concept which is based on camera to monitor
+driver alertness that not only recognizes the driver, but also checks his or
+her level of alertness while driving the vehicle. 
+
+
+
+The purpose of the Driver
+Monitoring system is to alert the driver when signs of drowsiness or distraction
+are detected. Other applications for the system are also possible, such as
+driver identification and control functions using the eyes. These developments
+will contribute to heightened safety and more intuitive use of the new
+generation of driver assistance functions.
 
 
 <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
@@ -110,3 +126,40 @@ alt="AI Driver Monitoring in Auto Rickshaw" width="480" height="360" border="10"
 * Privacy of the Driver has to be protected 
 * Who Owns this Data and how it is being used ?
 * Whether these data can be used by Insurance Companies ?
+
+
+- - - -
+
+## Conclusion ##
+
+A majority of fatal accidents have been attributed
+to mistakes made by drivers. This can include distraction or unsuitable state
+of mind and body (drowsiness, fatigue, intoxication, road rage, etc.).
+
+
+
+As technologies are available to determine the
+driver’s Activity while driving, Auto Manufacturers and regulators can embrace
+Driver Activity Monitoring so as to improve public safety. 
+
+
+
+In this Proof of concept we have showcased the
+capability, further works are needed to improve the accuracy of the driver
+alertness prediction algorithm. 
+
+- - - -
+
+## Contact Us ##
+
+__ETOP TECHNOLOGIES__ is a Software Development company. 
+1. We do AI Consulting for Digital Transformation.
+2. We build software solutions using emerging technologies for start-ups and enterprises. 
+3. We can Develop AI applications with Computer vision, Deep Learning and Natural Language processing.
+
+We convert your AI Vision into a reality. Our Services are categorized into 
+1. AI Data Preparation/ Data Annotation Services 
+2. AI Software Development Services 
+3. AI IOT Development Services
+
+__Visit www.etopdigital.com for more information.__
