@@ -7,16 +7,6 @@
 
 Road Accident Death ( India recorded highest number of road accident deaths across the globe)
 
-    
-    
-### __Accidents in India ( Facts and Figures)__ ###
-
-__Key Highlights__
-* A total of 449,002 accidents occurred in India in 2019
-* 151,113 people were killed and 451,361 were injured due to road accidents last year 
-* National Highways accounted for an inordinate share of deaths yet again
-
-
 
 ## Analysis of the Problem (Common Causes of Road Accidents in India) ##
 
@@ -28,6 +18,13 @@ __Key Highlights__
 6. Potholes and Bad Road Condition
 7. Breaking Traffic Rules
 8. Tailgating
+
+### __Accidents in India ( Facts and Figures)__ ###
+
+__Key Highlights__
+* A total of 449,002 accidents occurred in India in 2019
+* 151,113 people were killed and 451,361 were injured due to road accidents last year 
+* National Highways accounted for an inordinate share of deaths yet again
 
 <p float="left">
   <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/2.png" width="49%" />
