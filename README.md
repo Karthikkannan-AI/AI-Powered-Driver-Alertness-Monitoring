@@ -77,21 +77,16 @@ alt="AI Driver Monitoring in Bus (Day)" width="240" height="180" border="10" /><
 
 
 
-AI Driver Monitoring in Bus (Night)
+AI Driver Monitoring in Bus (Night) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI Driver Monitoring in Car
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/xCQxIWP7upk" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t1.png" 
-alt="AI Driver Monitoring in Bus (Night)" width="240" height="180" border="10" /></a>
-                                                                              
-AI Driver Monitoring in Car
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/1oi7GNBNJH8"
+alt="AI Driver Monitoring in Bus (Night)" width="240" height="180" border="10" /></a> |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/1oi7GNBNJH8"
 target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t2.png" 
 alt="AI Driver Monitoring in Car" width="240" height="180" border="10" /></a>
             
                        
-AI Driver Monitoring in Truck/Lorry
+AI Driver Monitoring in Truck/Lorry  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI Driver Monitoring in Auto Rickshaw
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t3.png" 
-alt="AI Driver Monitoring in Truck/Lorry" width="240" height="180" border="10" /></a>
-
-AI Driver Monitoring in Auto Rickshaw
+alt="AI Driver Monitoring in Truck/Lorry" width="240" height="180" border="10" /></a> |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t4.png" 
 alt="AI Driver Monitoring in Auto Rickshaw" width="240" height="180" border="10" /></a>
 
