@@ -88,7 +88,7 @@ alt="AI Driver Monitoring in Car" width="240" height="180" border="10" /></a>
             
      
      
-Test - 5 : Driver Activity Monitoring in Truck  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Test - 6 : Driver Activity Monitoring in Auto Rickshaw
+Test - 5 : Driver Activity Monitoring in Truck  <br />  Test - 6 : Driver Activity Monitoring in Auto Rickshaw
 
 
 
