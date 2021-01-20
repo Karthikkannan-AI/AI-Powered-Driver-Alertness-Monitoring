@@ -86,9 +86,9 @@ alt="AI Driver Monitoring in Car" width="240" height="180" border="10" /></a> |
                        
 AI Driver Monitoring in Truck/Lorry  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI Driver Monitoring in Auto Rickshaw
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t3.png" 
-alt="AI Driver Monitoring in Truck/Lorry" width="240" height="180" border="10" /></a> |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+alt="AI Driver Monitoring in Truck/Lorry" width="240" height="180" border="10" /></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t4.png" 
-alt="AI Driver Monitoring in Auto Rickshaw" width="240" height="180" border="10" /></a> |
+alt="AI Driver Monitoring in Auto Rickshaw" width="240" height="180" border="10" /></a> 
 
 - - - -
 
