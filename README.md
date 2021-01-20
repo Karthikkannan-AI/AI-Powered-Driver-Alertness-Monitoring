@@ -65,9 +65,9 @@ Perform real time analysis of driver’s eyes, mouth, head and body movements an
 We have Tested in Bus, Truck, Car and Auto. As a Proof of Concept we have recorded the Driver Driving the vehicle Camera  Footage ( Day and Night Vision) and Analysed it Offline. 
 We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and Auto rickshaw manufacturers)  in India and explore the possibilities of Real-world Implementation 
 
-AI Driver Monitoring in Bus -1 (Day) | AI Driver Monitoring in Bus -2 (Day)
+AI Driver Monitoring in Bus -1 (Day) |                                      AI Driver Monitoring in Bus -2 (Day)
 
-------------------------- | -------------------------
+
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/aQyc5zW1ez4
 " target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t.png" 
