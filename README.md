@@ -34,7 +34,6 @@ __Key Highlights__
 
 - - - -
 
-<br>
 ## Solution ##
 
 Use Advanced facial analysis algorithms and deep learning models ( Facial Landmark Models) To Detect Distracted Driving Behaviour.
