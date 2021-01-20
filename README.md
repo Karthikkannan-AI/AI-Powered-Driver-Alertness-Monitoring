@@ -16,7 +16,6 @@ __Key Highlights__
 * 151,113 people were killed and 451,361 were injured due to road accidents last year 
 * National Highways accounted for an inordinate share of deaths yet again
 
-- - - -
 
 
 ## Analysis of the Problem (Common Causes of Road Accidents in India) ##
@@ -35,10 +34,11 @@ __Key Highlights__
   <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/3.png" width="50%" /> 
 </p>
 
+
 - - - -
 
 
-## Solution we have Tried ##
+## Solution ##
 
 Use Advanced facial analysis algorithms and deep learning models ( Facial Landmark Models) To Detect Distracted Driving Behaviour.
 Perform real time analysis of driver’s eyes, mouth, head and body movements and identify the possibility of Drowsiness ( Eye closing and Yawning)
@@ -46,7 +46,7 @@ Perform real time analysis of driver’s eyes, mouth, head and body movements an
 - - - -
 
 
-## Evaluating the Solution ##
+### Evaluating the Solution ###
 
 We have Tested in Bus, Truck, Car and Auto. As a Proof of Concept we have recorded the Driver Driving the vehicle Camera  Footage ( Day and Night Vision) and Analysed it Offline. 
 We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and Auto rickshaw manufacturers)  in India and explore the possibilities of Real-world Implementation 
