@@ -1,6 +1,6 @@
 # AI-Driver-Monitoring #
 
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%" float="center">
+<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
 
 
 ## What is the Problem ? ##
@@ -11,7 +11,7 @@ Road Accident Death ( India recorded highest number of road accident deaths acro
     
 ## __Accidents in India ( Facts and Figures)__ ##
 
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/1.png"/>
+<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/1.png" width="70%">
 
 __Key Highlights__
 * A total of 449,002 accidents occurred in India in 2019
@@ -59,7 +59,7 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 
 - - - -
 
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2013-02-31.png">
+<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2013-02-31.png" width="70%">
 
 - - - -
 
