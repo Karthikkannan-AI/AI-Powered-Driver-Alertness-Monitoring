@@ -65,6 +65,6 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 - - - -
 
 <p float="left">
-  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/2.png" width="40%" />
+  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/2.png" width="45%" />
   <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/3.png" width="50%" /> 
 </p>
