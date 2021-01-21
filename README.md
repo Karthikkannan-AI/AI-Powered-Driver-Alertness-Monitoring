@@ -21,7 +21,7 @@ will contribute to heightened safety and more intuitive use of the new
 generation of driver assistance functions.
 
 
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
+<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
 
 
 ## Table of Contents ##
@@ -63,8 +63,8 @@ Road Accident Death ( India recorded highest number of road accident deaths acro
  * National Highways accounted for an inordinate share of deaths yet again
 
  <p float="left">
-  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/2.png" width="49%" />
-  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/3.png" width="50%" /> 
+  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/2.png" width="49%" />
+  <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/3.png" width="50%" /> 
  </p>
 
 
@@ -75,7 +75,7 @@ Road Accident Death ( India recorded highest number of road accident deaths acro
 Use Advanced facial analysis algorithms and deep learning models ( Facial Landmark Models) To Detect Distracted Driving Behaviour.
 Perform real time analysis of driver’s eyes, mouth, head and body movements and identify the possibility of Drowsiness ( Eye closing and Yawning)
 
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/Screenshot%20from%202021-01-20%2013-02-31.png" width="70%">
+<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/Screenshot%20from%202021-01-20%2013-02-31.png" width="70%">
 
 
 ### Evaluating the Solution ###
@@ -87,7 +87,7 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/aQyc5zW1ez4" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t.png" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/aQyc5zW1ez4" target="_blank"><img src="hhttps://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t.png" 
 alt="AI Driver Monitoring in Bus (Day)" width="75%" height="400"  /></a>     
 
 
@@ -95,7 +95,7 @@ __Test - 2 : Driver Activity Monitoring in Bus__
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/13FINC-P08A" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t0.png" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/13FINC-P08A" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t0.png" 
 alt="AI Driver Monitoring in Bus (Day)" width="75%" height="400" /></a> 
 
 
@@ -105,7 +105,7 @@ __Test - 3 : Driver Activity Monitoring in Bus__
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/xCQxIWP7upk" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t1.png" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/xCQxIWP7upk" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t1.png" 
 alt="AI Driver Monitoring in Bus (Night)" width="75%" height="400" /></a>   
 
 
@@ -115,7 +115,7 @@ alt="AI Driver Monitoring in Bus (Night)" width="75%" height="400" /></a>
  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/1oi7GNBNJH8"
-target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t2.png" 
+target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t2.png" 
 alt="AI Driver Monitoring in Car" width="75%" height="400" /></a> 
             
      
@@ -124,7 +124,7 @@ __Test - 5 : Driver Activity Monitoring in Truck__
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t3.png" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t3.png" 
 alt="AI Driver Monitoring in Truck/Lorry" width="75%" height="400" /></a>  
 
 
@@ -132,7 +132,7 @@ alt="AI Driver Monitoring in Truck/Lorry" width="75%" height="400" /></a>
  
  
  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/t4.png" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t4.png" 
 alt="AI Driver Monitoring in Auto Rickshaw" width="75%" height="400" /></a> 
 
 
@@ -183,4 +183,4 @@ We convert your AI Vision into a reality. Our Services are categorized into
 
 __Visit www.etopdigital.com for more information.__
 
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/About%20ETOP%20Technologies_Github.png">
+<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/About%20ETOP%20Technologies_Github.png">
