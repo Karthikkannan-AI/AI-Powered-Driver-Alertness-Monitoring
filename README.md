@@ -107,7 +107,7 @@ alt="AI Driver Monitoring in Bus (Night)" width="75%" height="400" /></a>
 
 
 
- ### Test - 4 : Driver Activity Monitoring in Car ###
+ ### Test - 4 : Driver Alertness Monitoring in Car ###
  
  
 
@@ -117,7 +117,7 @@ alt="AI Driver Monitoring in Car" width="75%" height="400" /></a>
             
      
      
-### Test - 5 : Driver Activity Monitoring in Truck ###
+### Test - 5 : Driver Alertness Monitoring in Truck ###
 
 
 
@@ -125,7 +125,7 @@ alt="AI Driver Monitoring in Car" width="75%" height="400" /></a>
 alt="AI Driver Monitoring in Truck/Lorry" width="75%" height="400" /></a>  
 
 
- ### Test - 6 : Driver Activity Monitoring in Auto Rickshaw ###
+ ### Test - 6 : Driver Alertness Monitoring in Auto Rickshaw ###
  
  
  
@@ -136,12 +136,12 @@ alt="AI Driver Monitoring in Auto Rickshaw" width="75%" height="400" /></a>
 
 - - - -
 
-## Genuine Challenges in Implementation of Driver Activity Monitoring ##
+## Genuine Challenges in Implementation of Driver Alertness Monitoring ##
 
-* Driver Support ( Driver should not feel Intrusive) 
-* Privacy of the Driver has to be protected 
-* Who Owns this Data and how it is being used ?
-* Whether these data can be used by Insurance Companies ?
+* Driver Support ( Driver should not feel Intrusive as he/she is being monitored all the time ) 
+* Privacy of the driver has to be protected. 
+* Who owns this Driver Alertness Monitoring Data and how it is being used ?
+* Whether these data can be used or accessed by Insurance Companies ?
 
 
 - - - -
@@ -149,18 +149,18 @@ alt="AI Driver Monitoring in Auto Rickshaw" width="75%" height="400" /></a>
 ## Conclusion ##
 
 A majority of fatal accidents have been attributed
-to mistakes made by drivers. This can include distraction or unsuitable state
-of mind and body (drowsiness, fatigue, intoxication, road rage, etc.).
+to mistakes made by drivers. This can include distraction or an unsuitable state
+of mind and body (drowsiness, fatigue, intoxication, etc.).
 
 
 
 As technologies are available to determine the
-driver’s Activity while driving, Auto Manufacturers and regulators can embrace
+driver’s alertness while driving, Auto Manufacturers and regulators can embrace
 Driver Activity Monitoring so as to improve public safety. 
 
 
 
-In this Proof of concept we have showcased the
+In this Proof of concept, we have showcased the
 capability, further works are needed to improve the accuracy of the driver
 alertness prediction algorithm. 
 
@@ -168,15 +168,15 @@ alertness prediction algorithm.
 
 ## Contact Us ##
 
-__ETOP TECHNOLOGIES__ is a Software Development company. 
+__ETOP TECHNOLOGIES__ is a Software development company. 
 1. We do AI Consulting for Digital Transformation.
 2. We build software solutions using emerging technologies for start-ups and enterprises. 
-3. We can Develop AI applications with Computer vision, Deep Learning and Natural Language processing.
+3. We can develop AI applications with Computer vision, Deep Learning and Natural Language processing.
 
 We convert your AI Vision into a reality. Our Services are categorized into 
 1. AI Data Preparation/ Data Annotation Services 
 2. AI Software Development Services 
-3. AI IOT Development Services
+3. AI-IOT Development Services
 
 __Visit www.etopdigital.com for more information.__
 
