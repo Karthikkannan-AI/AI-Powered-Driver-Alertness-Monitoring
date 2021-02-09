@@ -1,4 +1,4 @@
-# Evaluation of AI Powered Driver Activity Monitoring to prevent Accidents in Indian Roads #
+# Evaluation of AI Powered Driver Alertness Monitoring to prevent Accidents in Indian Roads #
 
 Every single day there are hundreds of Road Accidents happening in India.
 
@@ -10,7 +10,7 @@ The Goal of the project is to use AI to Prevent Accidents and Save precious live
 
 
 
-We have built and Evaluated a Driver Activity Monitoring system proof of concept which is based on a camera to monitor driver alertness that not only recognizes the driver but also checks his or her level of alertness while driving the vehicle. 
+We have built and Evaluated a Driver Alertness Monitoring system proof of concept which is based on a camera to monitor driver alertness that not only recognizes the driver but also checks his or her level of alertness while driving the vehicle. 
 
 
 
@@ -27,7 +27,7 @@ The purpose of the Driver Monitoring System is to alert the driver when signs of
   * [Accidents in India (Facts)](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#accidents-in-india--facts-and-figures)
 * [Proposed Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#proposed-solution)
   * [Evaluating the Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#evaluating-the-solution)
-* [Genuine Challenges in Implementation of Driver Activity Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-activity-monitoring)
+* [Genuine Challenges in Implementation of Driver Alertness Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-alertness-monitoring)
 * [Conclusion](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#conclusion)
 * [Contact Us](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#contact-us)
 
@@ -156,7 +156,7 @@ of mind and body (drowsiness, fatigue, intoxication, etc.).
 
 As technologies are available to determine the
 driver’s alertness while driving, Auto Manufacturers and regulators can embrace
-Driver Activity Monitoring so as to improve public safety. 
+Driver Alertness Monitoring so as to improve public safety. 
 
 
 
