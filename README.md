@@ -5,7 +5,7 @@ India ranks first in the number of road accident deaths across the
 deaths in the World
 
 ## Table of Contents ##
-* [Introduction]
+* [Introduction](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#introduction)
 * [The Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#the-problem)
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#analysis-of-the-problem)
   * [Accidents in India (Facts)](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#accidents-in-india--facts-and-figures)
@@ -41,7 +41,7 @@ The purpose of the Driver Monitoring System is to alert the driver when signs of
 
 ## The Problem  ##
 
-Road Accident Death ( India recorded highest number of road accident deaths across the globe)
+Road Accident Death ( India recorded the highest number of road accident deaths across the globe)
 
 
  ### Analysis of the Problem ###
@@ -144,8 +144,8 @@ alt="AI Driver Monitoring in Auto Rickshaw" width="75%" height="400" /></a>
 
 * Driver Support ( Driver should not feel Intrusive as he/she is being monitored all the time ) 
 * Privacy of the driver has to be protected. 
-* Who owns this Driver Alertness Monitoring Data and how it is being used ?
-* Whether these data can be used or accessed by Insurance Companies ?
+* Who owns this Driver Alertness Monitoring Data and how it is being used?
+* Whether these data can be used or accessed by Insurance Companies?
 
 
 - - - -
@@ -175,7 +175,7 @@ alertness prediction algorithm.
 __ETOP TECHNOLOGIES__ is a Software development company. 
 1. We do AI Consulting for Digital Transformation.
 2. We build software solutions using emerging technologies for start-ups and enterprises. 
-3. We can develop AI applications with Computer vision, Deep Learning and Natural Language processing.
+3. We can develop AI applications with Computer vision, Deep Learning, and Natural Language processing.
 
 We convert your AI Vision into a reality. Our Services are categorized into 
 1. AI Data Preparation/ Data Annotation Services 
