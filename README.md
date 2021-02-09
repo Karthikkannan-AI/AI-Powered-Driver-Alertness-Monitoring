@@ -78,10 +78,9 @@ Use advanced facial analysis algorithms and deep learning models ( Facial Landma
 
 ### Evaluating the Solution ###
 
-We have Tested in Bus, Truck, Car and Auto. As a Proof of Concept we have recorded the Driver Driving the vehicle Camera  Footage ( Day and Night Vision) and Analysed it Offline. 
-We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and Auto rickshaw manufacturers)  in India and explore the possibilities of Real-world Implementation 
+We have tested our AI-based Driver Alertness Monitoring in Bus, Truck, Car, and Auto. As a Proof of Concept, we have recorded the Driver Driving the vehicle Camera Footage ( Day and Night Vision) and analyzed it Offline. We will take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck, and Auto rickshaw manufacturers) in India and explore the possibilities of Real-world Implementation.
 
- __Test - 1 : Driver Activity Monitoring in Bus__
+ ### Test - 1 : Driver Activity Monitoring in Bus ###
 
 
 
@@ -89,7 +88,7 @@ We will Take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck and 
 alt="AI Driver Monitoring in Bus (Day)" width="75%" height="400"  /></a>     
 
 
-__Test - 2 : Driver Activity Monitoring in Bus__
+### Test - 2 : Driver Activity Monitoring in Bus ###
 
 
 
@@ -99,7 +98,7 @@ alt="AI Driver Monitoring in Bus (Day)" width="75%" height="400" /></a>
 
 
 
-__Test - 3 : Driver Activity Monitoring in Bus__   
+### Test - 3 : Driver Activity Monitoring in Bus ###
 
 
 
@@ -108,7 +107,7 @@ alt="AI Driver Monitoring in Bus (Night)" width="75%" height="400" /></a>
 
 
 
- __Test - 4 : Driver Activity Monitoring in Car__
+ ### Test - 4 : Driver Activity Monitoring in Car ###
  
  
 
@@ -118,7 +117,7 @@ alt="AI Driver Monitoring in Car" width="75%" height="400" /></a>
             
      
      
-__Test - 5 : Driver Activity Monitoring in Truck__  
+### Test - 5 : Driver Activity Monitoring in Truck ###
 
 
 
@@ -126,7 +125,7 @@ __Test - 5 : Driver Activity Monitoring in Truck__
 alt="AI Driver Monitoring in Truck/Lorry" width="75%" height="400" /></a>  
 
 
- __Test - 6 : Driver Activity Monitoring in Auto Rickshaw__
+ ### Test - 6 : Driver Activity Monitoring in Auto Rickshaw ###
  
  
  
