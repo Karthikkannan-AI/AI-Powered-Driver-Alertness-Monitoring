@@ -25,7 +25,7 @@ The purpose of the Driver Monitoring System is to alert the driver when signs of
 * [The Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#the-problem)
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#analysis-of-the-problem)
   * [Accidents in India (Facts)](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#accidents-in-india--facts-and-figures)
-* [Proposed Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#solution)
+* [Proposed Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#proposed-solution)
   * [Evaluating the Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#evaluating-the-solution)
 * [Genuine Challenges in Implementation of Driver Activity Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-activity-monitoring)
 * [Conclusion](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#conclusion)
@@ -54,9 +54,9 @@ Road Accident Death ( India recorded highest number of road accident deaths acro
  ### Accidents in India ( Facts and Figures) ###
 
  __Key Highlights__
- * A total of 449,002 accidents occurred in India in 2019
- * 151,113 people were killed and 451,361 were injured due to road accidents last year 
- * National Highways accounted for an inordinate share of deaths yet again
+ * A total of 449,002 accidents occurred in India in 2019.
+ * 151,113 people were killed and 451,361 were injured due to road accidents. 
+ * National Highways accounted for an inordinate share of deaths.
 
  <p float="left">
   <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/2.png" width="49%" />
