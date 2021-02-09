@@ -1,8 +1,6 @@
 # Evaluation of AI Powered Driver Activity Monitoring to prevent Accidents in Indian Roads #
 
-Every Single day there are
-hundreds of Road Accidents happening in India. The Goal of the Project is use
-AI to Prevent Accidents and Save Precious Lives.  
+Every single day there are hundreds of Road Accidents happening in India. The Goal of the project is to use AI to Prevent Accidents and Save precious lives.
 
 
 
