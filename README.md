@@ -6,10 +6,7 @@ The Goal of the project is to use AI to Prevent Accidents and Save precious live
 
 
 
-We have built and Evaluated Driver
-activity Monitoring system proof of concept which is based on camera to monitor
-driver alertness that not only recognizes the driver, but also checks his or
-her level of alertness while driving the vehicle. 
+We have built and Evaluated a Driver Activity Monitoring system proof of concept which is based on a camera to monitor driver alertness that not only recognizes the driver but also checks his or her level of alertness while driving the vehicle. 
 
 
 
