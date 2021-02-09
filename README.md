@@ -38,7 +38,7 @@ Road Accident Death ( India recorded highest number of road accident deaths acro
 
  ### Analysis of the Problem ###
 
- 1. Distracted & Drowsiness while Driving ( We will focus on this Problem) 
+ 1. Distraction & Drowsiness while Driving ( In this project we will focus on this particular Problem) 
  2. Drunk Driving
  3. Speeding/ Reckless Driving
  4. Not Wearing Seat Belt
@@ -59,6 +59,9 @@ Road Accident Death ( India recorded highest number of road accident deaths acro
   <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/3.png" width="50%" /> 
  </p>
 
+Source: National Road Accident data released by the Government of India, Union
+Ministry of Road Transport and Highways (MoRTH) for the year 2019
+https://morth.nic.in/sites/default/files/RA_Uploading.pdf
 
 - - - -
 
