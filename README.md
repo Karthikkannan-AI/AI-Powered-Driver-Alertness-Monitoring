@@ -2,6 +2,10 @@
 
 Every single day there are hundreds of Road Accidents happening in India.
 
+India ranks first in the number of road accident deaths across the
+199 countries and accounts for almost 11% of the accident related
+deaths in the World
+
 The Goal of the project is to use AI to Prevent Accidents and Save precious lives.
 
 
@@ -21,7 +25,7 @@ The purpose of the Driver Monitoring System is to alert the driver when signs of
 * [The Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#the-problem)
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#analysis-of-the-problem)
   * [Accidents in India (Facts)](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#accidents-in-india--facts-and-figures)
-* [Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#solution)
+* [Proposed Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#solution)
   * [Evaluating the Solution](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#evaluating-the-solution)
 * [Genuine Challenges in Implementation of Driver Activity Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-activity-monitoring)
 * [Conclusion](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#conclusion)
@@ -59,13 +63,13 @@ Road Accident Death ( India recorded highest number of road accident deaths acro
   <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/3.png" width="50%" /> 
  </p>
 
-Source: National Road Accident data released by the Government of India, Union
+__Source:__ National Road Accident data released by the Government of India, Union
 Ministry of Road Transport and Highways (MoRTH) for the year 2019
 https://morth.nic.in/sites/default/files/RA_Uploading.pdf
 
 - - - -
 
-## Solution ##
+## Proposed Solution ##
 
 Use Advanced facial analysis algorithms and deep learning models ( Facial Landmark Models) To Detect Distracted Driving Behaviour.
 Perform real time analysis of driver’s eyes, mouth, head and body movements and identify the possibility of Drowsiness ( Eye closing and Yawning)
