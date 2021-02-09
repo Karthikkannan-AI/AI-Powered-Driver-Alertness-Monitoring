@@ -1,27 +1,11 @@
 # Evaluation of AI Powered Driver Alertness Monitoring to prevent Accidents in Indian Roads #
 
-Every single day there are hundreds of Road Accidents happening in India.
-
 India ranks first in the number of road accident deaths across the
 199 countries and accounts for almost 11% of the accident related
 deaths in the World
 
-The Goal of the project is to use AI to Prevent Accidents and Save precious lives.
-
-
-
-We have built and Evaluated a Driver Alertness Monitoring system proof of concept which is based on a camera to monitor driver alertness that not only recognizes the driver but also checks his or her level of alertness while driving the vehicle. 
-
-
-
-The purpose of the Driver Monitoring System is to alert the driver when signs of drowsiness or distraction are detected. Other applications for the system are also possible, such as driver identification and control functions using the eyes. These developments will contribute to heightened safety and more intuitive use of the new generation of driver assistance functions.
-
-
-<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
-
-
 ## Table of Contents ##
-
+* [Introduction]
 * [The Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#the-problem)
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#analysis-of-the-problem)
   * [Accidents in India (Facts)](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#accidents-in-india--facts-and-figures)
@@ -34,6 +18,26 @@ The purpose of the Driver Monitoring System is to alert the driver when signs of
 
 - - - -
 
+## Introduction  ##
+
+Every single day there are hundreds of Road Accidents happening in India.
+
+
+
+The Goal of the project is to use AI to Prevent Accidents and Save precious lives.
+
+
+
+We have built and Evaluated a Driver Alertness Monitoring system proof of concept which is based on a camera to monitor driver alertness that not only recognizes the driver but also checks his or her level of alertness while driving the vehicle. 
+
+
+
+The purpose of the Driver Monitoring System is to alert the driver when signs of drowsiness or distraction are detected. Other applications for the system are also possible, such as driver identification and control functions using the eyes. These developments will contribute to heightened safety and more intuitive use of the new generation of driver assistance functions.
+
+<img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
+
+
+- - - -
 
 ## The Problem  ##
 
