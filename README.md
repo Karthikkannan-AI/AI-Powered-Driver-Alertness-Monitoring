@@ -80,7 +80,7 @@ Use advanced facial analysis algorithms and deep learning models ( Facial Landma
 
 We have tested our AI-based Driver Alertness Monitoring in Bus, Truck, Car, and Auto. As a Proof of Concept, we have recorded the Driver Driving the vehicle Camera Footage ( Day and Night Vision) and analyzed it Offline. We will take this demonstration to Top Auto Manufacturers ( Car, Bus, Truck, and Auto rickshaw manufacturers) in India and explore the possibilities of Real-world Implementation.
 
- ### Test - 1 : Driver Activity Monitoring in Bus ###
+ ### Test - 1 : Driver Alertness Monitoring in Bus ###
 
 
 
@@ -88,7 +88,7 @@ We have tested our AI-based Driver Alertness Monitoring in Bus, Truck, Car, and 
 alt="AI Driver Monitoring in Bus (Day)" width="75%" height="400"  /></a>     
 
 
-### Test - 2 : Driver Activity Monitoring in Bus ###
+### Test - 2 : Driver Alertness Monitoring in Bus ###
 
 
 
@@ -98,7 +98,7 @@ alt="AI Driver Monitoring in Bus (Day)" width="75%" height="400" /></a>
 
 
 
-### Test - 3 : Driver Activity Monitoring in Bus ###
+### Test - 3 : Driver Alertness Monitoring in Bus ( Night Vision ) ###
 
 
 
