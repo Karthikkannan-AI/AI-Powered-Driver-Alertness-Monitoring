@@ -10,12 +10,7 @@ We have built and Evaluated a Driver Activity Monitoring system proof of concept
 
 
 
-The purpose of the Driver
-Monitoring system is to alert the driver when signs of drowsiness or distraction
-are detected. Other applications for the system are also possible, such as
-driver identification and control functions using the eyes. These developments
-will contribute to heightened safety and more intuitive use of the new
-generation of driver assistance functions.
+The purpose of the Driver Monitoring System is to alert the driver when signs of drowsiness or distraction are detected. Other applications for the system are also possible, such as driver identification and control functions using the eyes. These developments will contribute to heightened safety and more intuitive use of the new generation of driver assistance functions.
 
 
 <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/Screenshot%20from%202021-01-20%2012-12-23.png" width="70%">
