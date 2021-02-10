@@ -14,7 +14,7 @@ deaths in the World
 * [Genuine Challenges in Implementation of Driver Alertness Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-alertness-monitoring)
 * [Conclusion](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#conclusion)
 * [Contact Us](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#contact-us)
-
+* [Rebounding from COVID-19]()
 
 - - - -
 
@@ -189,6 +189,10 @@ __Email : karthik@etopdigital.com / sales@etopdigital.com__
 __Phone : 9944865029__
 
 <img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/About%20ETOP%20Technologies_Github.png">
+
+- - - -
+
+## Rebounding from COVID-19 ##
 
 The COVID-19 pandemic has profoundly influenced the lives of most people on the planet.
 
