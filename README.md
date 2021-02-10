@@ -14,7 +14,7 @@ deaths in the World
 * [Genuine Challenges in Implementation of Driver Alertness Monitoring](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/README.md#genuine-challenges-in-implementation-of-driver-alertness-monitoring)
 * [Conclusion](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#conclusion)
 * [Contact Us](https://github.com/Karthikkannan-AI/AI-Driver-Monitoring#contact-us)
-* [Rebounding from COVID-19]()
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/AI-Powered-Driver-Alertness-Monitoring/blob/main/README.md#rebounding-from-covid-19)
 
 - - - -
 
