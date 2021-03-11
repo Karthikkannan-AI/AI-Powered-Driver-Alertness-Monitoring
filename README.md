@@ -106,7 +106,7 @@ alt="AI Driver Monitoring in Bus (Day)" width="75%" height="400" /></a>
 
 
 
-<a href="https://youtu.be/xCQxIWP7upk" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t1.png" 
+<a href="https://youtu.be/JHJzyojNmfU" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t1.png" 
 alt="AI Driver Monitoring in Bus (Night)" width="75%" height="400" /></a>   
 
 
@@ -115,13 +115,11 @@ alt="AI Driver Monitoring in Bus (Night)" width="75%" height="400" /></a>
  
  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/1oi7GNBNJH8"
-target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t2.png" 
-alt="AI Driver Monitoring in Car" width="75%" height="400" /></a> 
+<a href="https://youtu.be/1oi7GNBNJH8" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t2.png" alt="AI Driver Monitoring in Car" width="75%" height="400" /></a> 
             
      
      
-### Test - 5 : Driver Alertness Monitoring in Truck ###
+### Test - 5 : Driver Alertness Monitoring in Lorry ###
 
 
 
@@ -133,7 +131,7 @@ alt="AI Driver Monitoring in Truck/Lorry" width="75%" height="400" /></a>
  
  
  
-<a href="https://youtu.be/WSdqM6wDOhc" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t4.png" 
+<a href="https://youtu.be/QqgMr41AAd4" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Driver-Monitoring/blob/main/resources/t4.png" 
 alt="AI Driver Monitoring in Auto Rickshaw" width="75%" height="400" /></a> 
 
 
